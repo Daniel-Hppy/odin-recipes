@@ -9,14 +9,7 @@ body {
     margin-right: 150px;
 }
 
-h1 {
-    text-align: center;
-}
-
-.recipe {
-    padding: 5px auto;
-}
-
+h1,
 h2 {
     text-align: center;
 }
@@ -29,6 +22,6 @@ h2 {
 img {
     display: block;
     margin: 20px auto;
-    width: 500px;
-    height: auto;
+    width: auto;
+    height: 300px;
 }
